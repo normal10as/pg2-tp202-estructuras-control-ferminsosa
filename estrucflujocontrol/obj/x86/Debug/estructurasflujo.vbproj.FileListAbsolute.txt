@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\bin\Debug\programcion2.exe
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\bin\Debug\programcion2.pdb
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\estructurasflujo.vbprojResolveAssemblyReference.cache
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\estructurasflujo.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\programcion2.exe
+C:\Users\Max\Desktop\programacion\programacion2\estrucflujocontrol\obj\x86\Debug\programcion2.pdb
