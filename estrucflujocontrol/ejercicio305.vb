@@ -20,7 +20,7 @@ Module ejercicio305
                 If r <= 0 And h <= 0 Then
                     Console.WriteLine("Usar valores positivos")
                 ElseIf h <= 0 Then
-                    Console.WriteLine("Usar Valores Positivos de Altura")
+                    Console.WriteLine("Usar Valores Positivos para la Altura")
                 Else
                     Console.WriteLine("Usar valores positivos para la Base")
                 End If
